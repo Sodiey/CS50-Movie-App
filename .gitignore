@@ -1,0 +1,25 @@
+venv
+__pycache__
+
+# FRONT-END
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+
+# next.js
+.next/
+out/
+.next/
+
+# production
+build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*

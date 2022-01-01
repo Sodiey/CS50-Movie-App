@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "theme/*": ["theme/*"],
+      "layout/*": ["layout/*"],
+      "icons/*": ["icons/*"],
+      "components/*": ["components/*"],
+      "api/*": ["api/*"],
+      "module/*": ["module/*"],
+      "forms/*": ["forms/*"],
+      "services/*": ["services/*"],
+      "types/*": ["types/*"]
+    }
+  }
+}
